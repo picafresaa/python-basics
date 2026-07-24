@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../../VSPicode"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "VSPicode"
+	}
+}
